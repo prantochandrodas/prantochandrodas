@@ -1,4 +1,4 @@
-{![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQFWaGIJwMlhtw/profile-displaybackgroundimage-shrink_350_1400/0/1669753068924?e=1675296000&v=beta&t=Gs3M-MdLnIl0Fb0iVjFOkwtKNWPwDdl_wdleIALNP2Q)
+![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQFWaGIJwMlhtw/profile-displaybackgroundimage-shrink_350_1400/0/1669753068924?e=1675296000&v=beta&t=Gs3M-MdLnIl0Fb0iVjFOkwtKNWPwDdl_wdleIALNP2Q)
 <h1 align="center">Hi 👋, I'm Pranto Das</h1>
 <h3 align="center">Full Stack Web Developer</h3>
   
