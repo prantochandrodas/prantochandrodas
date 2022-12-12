@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQHqszsdDOMwnA/profile-displaybackgroundimage-shrink_350_1400/0/1670526514364?e=1675900800&v=beta&t=P99U5xDhiZ-C76eKPOHruHRSq3Hh68DZmc54w4jWuUI)
+![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQFue2Be1e0G4A/profile-displaybackgroundimage-shrink_350_1400/0/1670527217651?e=1676505600&v=beta&t=Tp5hapGJGZeHl7qgKS5s9L9pgTC3foPzh4jKutKuvHI)
 <h1 align="center">Hi 👋, I'm Pranto Das</h1>
 <h3 align="center">Front-End Web Developer</h3>
   
